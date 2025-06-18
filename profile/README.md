@@ -106,5 +106,5 @@ luckyjet bot, лаки джет бот, лаки джет сигналы, сиг
 
 ---
 
-[![ПЕРЕЙТИ В БОТА С СИГНАЛАМИ 🚀](https://img.shields.io/badge/ПЕРЕЙТИ_В_БОТА_С_СИГНАЛАМИ-007BFF?style=for-the-badge&logo=rocket)](https://example.com/get-lucky-jet-bot)
+[![ПЕРЕЙТИ В БОТА С СИГНАЛАМИ 🚀](https://img.shields.io/badge/ПЕРЕЙТИ_В_БОТА_С_СИГНАЛАМИ-007BFF?style=for-the-badge&logo=rocket)](https://t.me/litluckyjetbot)
 
